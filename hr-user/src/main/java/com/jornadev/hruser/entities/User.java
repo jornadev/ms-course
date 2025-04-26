@@ -1,7 +1,5 @@
 package com.jornadev.hruser.entities;
 
-import com.jornadev.hruser.entities.Role;
-
 import java.io.Serializable;
 import java.util.HashSet;
 import java.util.Set;
